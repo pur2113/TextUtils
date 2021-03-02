@@ -19,3 +19,6 @@ It is a simple django project or website in which we can Analyze text.
 Python \
 Django
 
+# To Run
+Download the project and just run the command (python3 manage.py runserver)
+
